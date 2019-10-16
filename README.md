@@ -1,16 +1,10 @@
-
-# FullCalendar Webpack Example
-
-This is a fully-buildable example project for FullCalendar and [Webpack].
+Live : [https://dragnan.github.io/etkinlik-takvimi/]
 
 
-## Installation
+Fullcalendar kütüphanesi kullanılarak oluşturulmuştur. [https://fullcalendar.io/]
 
-```bash
-git clone https://github.com/fullcalendar/fullcalendar-example-projects.git
-cd fullcalendar-example-projects/webpack
-npm install
-```
+
+
 
 ## Build Commands
 
@@ -22,5 +16,3 @@ npm run clean # start fresh
 
 After running `build` or `watch`, open up `index.html` in a browser.
 
-
-[Webpack]: https://webpack.js.org/
