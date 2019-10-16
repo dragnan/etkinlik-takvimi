@@ -2,7 +2,7 @@
 
 Etkinlikleri Json datası olarak almaktadır.
 
-### Fullcalendar kütüphanesi kullanılarak oluşturulmuştur. [https://fullcalendar.io/]
+### Fullcalendar kütüphanesi kullanılarak oluşturulmuştur. [ https://fullcalendar.io/ ]
 
 
 
