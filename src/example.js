@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import { Calendar } from '@fullcalendar/core';
 import dayGridPlugin from '@fullcalendar/daygrid';
 
