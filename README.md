@@ -1,6 +1,6 @@
 ### Live : https://dragnan.github.io/etkinlik-takvimi/
 
-Etkinlikleri Json datası olarak almaktadır.
+Etkinlikleri Json datası olarak almaktadır. Datalar src/example.js dosyasının içerisindedir.
 
  Fullcalendar kütüphanesi kullanılarak oluşturulmuştur. [ https://fullcalendar.io/ ]
 
